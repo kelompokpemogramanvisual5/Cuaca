@@ -1,14 +1,14 @@
 {
-"Mata Pelajaran":Nilai;
-"Bahasa Indonesia":85;
-"Matematika":86;
-"Bahasa Inggris":88;
-"Agama ":90;
-"Kimia":92;
-"Fisika":92;
-"Biologi":93;
-"Ppkn":95;
-"Sejarah":96;
-"Geografi":98;
-"Ekonomi":99;
+"Januari":30,
+"Februari":32
+"Maret":33,
+"April":32,
+"Mei ":30,
+"Juni":29,
+"Juli":32,
+"Agustus":31,
+"September":29,
+"Oktober":28,
+"November":27,
+"Desember":26
 }
